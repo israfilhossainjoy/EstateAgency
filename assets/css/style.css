@@ -123,7 +123,7 @@ a:hover {
 }
 
 .color-b {
-  color: #2eca6a;
+  color: #005000;
 }
 
 .color-d {
@@ -1055,9 +1055,9 @@ a:hover {
 }
 
 .intro .intro-title {
-  color: #ffffff;
-  font-weight: 700;
-  font-size: 2.8rem;
+  color: #fff;
+  font-weight: 500;
+  font-size: 2.5rem;
   text-transform: uppercase;
 }
 
@@ -2205,7 +2205,7 @@ footer .credits {
 .counts .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #ffc451;
+  color: #005aff;
   float: left;
 }
 
