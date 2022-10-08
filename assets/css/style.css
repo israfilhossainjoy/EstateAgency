@@ -169,7 +169,7 @@ a:hover {
 .bg-image {
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
 }
 
@@ -2263,7 +2263,6 @@ footer .credits {
 }
 
 /*--------------------------------------------------------------
-
 
 
 *Features
